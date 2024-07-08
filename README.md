@@ -1,4 +1,4 @@
-<b><h2> Conversor De Moneda </h2></b>
+<h2><b>Conversor De Moneda</b></h2>
 
 ### sobre el conversor: 
 ### Descripcion: 
