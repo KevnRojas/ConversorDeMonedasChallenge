@@ -20,4 +20,4 @@
 <p3> Ejemplos con imagen para myor detalle </p3>
 
      - Convertir BRL a USD  = Real Brasileño  => Dolar
-    ![](C:\Users\kevin\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2024-07-08 141227.png)
+    ![Captura de pantalla 2024-07-08 141227](https://github.com/KevnRojas/ConversorDeMonedasChallenge/assets/161899020/e1400b4b-a90d-4b39-8e0e-d9dfdbdd8a22)
