@@ -21,4 +21,4 @@
 
      - Convertir BRL a USD  = Real Brasileño  => Dolar
     
-![Captura de pantalla 2024-07-08 141227](https://github.com/KevnRojas/ConversorDeMonedasChallenge/assets/161899020/e1400b4b-a90d-4b39-8e0e-d9dfdbdd8a22)
+(https://github.com/KevnRojas/ConversorDeMonedasChallenge/assets/161899020/e1400b4b-a90d-4b39-8e0e-d9dfdbdd8a22)
