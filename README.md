@@ -20,5 +20,4 @@
 <p3> Ejemplos con imagen para myor detalle </p3>
 
      - Convertir BRL a USD  = Real Brasileño  => Dolar
-     ![](C:\Users\kevin\OneDrive\Imágenes\Capturas de pantalla)
-)
+    ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
